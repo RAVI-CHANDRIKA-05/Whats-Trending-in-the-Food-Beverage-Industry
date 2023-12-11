@@ -103,8 +103,28 @@ Assumption: Market saturation may lead to SKU removal decisions.
 
 Rationale: Evaluating whether the market is saturated with similar products and if removing certain SKUs could streamline the product line.
 
+## Business ideas and SKUs
+
+### Immunity Boost Iced Tea (SKU):
+Infuse iced tea with natural ingredients known for immune support with a hit of vitamin C. Capitalize on the growing consumer mood towards health-conscious beverages.
+
+### Global Fusion Flavors Pack (SKU):
+Introduce a variety pack of iced teas featuring unique global flavors inspired by Italian, Chinese, and Japanese culinary influences. We can offer flavors like Italian Lemon Twist, Chinese Green Jasmine, Japanese Cherry Blossom and Masala Chai.
+
+### Eco-Friendly and Sustainable packaging:
+Launch an eco-friendly line of iced teas packaged in sustainable materials with regenerative and upcycled labelling. Appeal to environmentally conscious consumers seeking ethically sourced beverages.
+
+### Exotic Spice Infusion Iced Tea (SKU):
+Create a line of iced teas infused with exotic spices like ginger, cinnamon, cardamom, and lemongrass. Offer a unique and flavourful experience for consumers looking for a departure from traditional tea options.
+
+### Tropical Paradise Hydration Pack (SKU):
+Develop a iced tea line featuring tropical flavors, herbs, and botanicals sourced from different parts of the world. Cater to consumers seeking low-calorie, natural, and refreshing fruity options.
+
+### Customizable DIY Iced Tea Kits (SKU):
+Offering Do-It-Yourself (DIY) iced tea kits. Provide a range of base teas and flavor enhancers, allowing customers to create their personalized iced tea blends at home.
+
 # Power BI Dashboard
 
-[Click_Here ( Link to Power BI Dashboard)](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Click_Here] ( Link to Power BI Dashboard)](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ![Dashboard](https://github.com/RAVI-CHANDRIKA-05/Whats-Trending-in-the-Food-Beverage-Industry/assets/51845833/dd909cdb-12f7-450b-ab75-33b51c1c9457)
