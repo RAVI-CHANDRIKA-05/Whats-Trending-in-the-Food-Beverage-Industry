@@ -4,13 +4,19 @@
 
  "Conducting a comprehensive evaluation of the North American food and beverage industry, analyzing market trends, emerging flavors, and consumer preferences to provide a holistic understanding of the regional F&B landscape."
 
- ## Project Goal:
+## Project Goal:
 
 The current data set provides comprehensive information on new Food and Beverage (F&B) product launches globally, encompassing details such as product attributes, flavors, launch dates, and positioning categories. However, a challenge lies in extracting meaningful insights, particularly with regard to F&B flavors in the North America region.
 
 The goal of this assignment is to derive actionable insights, particularly focusing on the North America region, to assist stakeholders in making informed decisions regarding F&B product launches and flavor preferences.
 
 In addition to this as a As the Brand Manager in the Consumer Packaged Goods (CPG) - Foods business, for any Market-category, determining whether to launch a new brand variant involves a strategic decision-making process. The outcome of this analysis will impact the product portfolio, market positioning, and overall brand performance. 
+
+## Power BI Dashboard
+
+[( Link to Power BI Dashboard)](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+<img src = "images/Dashboard.png">
 
 ## Key Takeaway
 
@@ -123,8 +129,3 @@ Develop a iced tea line featuring tropical flavors, herbs, and botanicals source
 ### Customizable DIY Iced Tea Kits (SKU):
 Offering Do-It-Yourself (DIY) iced tea kits. Provide a range of base teas and flavor enhancers, allowing customers to create their personalized iced tea blends at home.
 
-# Power BI Dashboard
-
-[( Link to Power BI Dashboard)](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-
-<img src = "images/Dashboard.png">
