@@ -14,9 +14,8 @@ In addition to this as a As the Brand Manager in the Consumer Packaged Goods (CP
 
 ## Power BI Dashboard
 
-[( Link to Power BI Dashboard)](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"><img src="images/Dashboard.png" alt="Power BI Dashboard" /></a>
 
-<img src = "images/Dashboard.png">
 
 ## Key Takeaway
 
