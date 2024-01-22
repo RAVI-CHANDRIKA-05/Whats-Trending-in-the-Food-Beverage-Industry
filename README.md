@@ -127,4 +127,4 @@ Offering Do-It-Yourself (DIY) iced tea kits. Provide a range of base teas and fl
 
 [( Link to Power BI Dashboard)](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-![Dashboard](https://github.com/RAVI-CHANDRIKA-05/Whats-Trending-in-the-Food-Beverage-Industry/assets/51845833/eca0552f-60d5-485d-99c6-21ec6efcb7e8)
+<img src = "images/Dashboard.png">
