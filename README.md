@@ -14,9 +14,7 @@ In addition to this as a As the Brand Manager in the Consumer Packaged Goods (CP
 
 ## Power BI Dashboard
 
-<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"><img src="images/Dashboard.png" alt="Power BI Dashboard" /></a>
-
-<iframe title="What_Trending_in_F&B_Industry" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="What_Trending_in_F&B_Industry" width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNGNmMGRmZGQtNDRhZi00MTQwLWIzNDQtZTY4MjJkYmJiNDE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Key Takeaway
 
