@@ -93,7 +93,7 @@ Maps unique flavors to "Flavor Groups."
 Maps unique positioning categories to "Positioning Groups."
 
 # 7. Project Execution: Data Cleaning and Dataset Creation Approach in Python
-<a href="http://creativecommons.org/licenses/by/3.0/">Click to see the project code here</a>. 
+[Click to see the project code here](https://github.com/RAVI-CHANDRIKA-05/Whats-Trending-in-the-Food-Beverage-Industry/blob/main/DATA_CLEANING_FOR_FNB_DATA.pdf)
 
 ### Filtering data for north-america region:
 * The scope of this exercise involves analysis for North American region only. Hence I have filtered the data for North America region before performing any necessary data manipulations to create our analytical datasets, to reduce our computational inputs and outputs.
