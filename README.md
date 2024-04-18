@@ -28,7 +28,6 @@ In this presentation, I'll walk you through the insights and findings from my an
   </iframe>
 </div>
 
-
 # 4. Analysis and Insights
 
 ### 4.1 Trend in New Product Introductions:
